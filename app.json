@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "hangman-game",
+    "slug": "hangman-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/application-images/icons/app-icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/application-images/icons/app-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/application-images/icons/app-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/application-images/icons/app-icon.png"
+    }
+  }
+}
